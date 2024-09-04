@@ -1,0 +1,1 @@
+This is a demo project that I developed for practice purposes. The code follows the Page Object Model (POM) and Page Factory design patterns. I have structured the framework using the Page Object Model repository concept. Additionally, a testing.xml file is included, which allows the entire test suite to be executed.
